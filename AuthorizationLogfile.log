@@ -1,0 +1,946 @@
+INFO  04:14:29 Application started. Press Ctrl+C to shut down.
+INFO  04:14:29 Hosting environment: Development
+INFO  04:14:29 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  04:14:41 Getting All Agents
+INFO  04:15:00 Token is Generated
+INFO  06:21:23 Application started. Press Ctrl+C to shut down.
+INFO  06:21:23 Hosting environment: Development
+INFO  06:21:23 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:21:44 Agent is Found
+INFO  06:21:44 Token is Generated
+INFO  06:24:00 Application started. Press Ctrl+C to shut down.
+INFO  06:24:00 Hosting environment: Development
+INFO  06:24:00 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:24:43 Agent is Found
+INFO  06:24:43 Token is Generated
+INFO  06:29:48 Getting All Agents
+INFO  06:39:14 Application started. Press Ctrl+C to shut down.
+INFO  06:39:14 Hosting environment: Development
+INFO  06:39:14 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:39:49 Agent is Found
+INFO  06:39:49 Token is Generated
+INFO  06:40:27 Application started. Press Ctrl+C to shut down.
+INFO  06:40:27 Hosting environment: Development
+INFO  06:40:27 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:51:33 Getting All Agents
+INFO  07:20:10 Application started. Press Ctrl+C to shut down.
+INFO  07:20:10 Hosting environment: Development
+INFO  07:20:10 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:55:36 Application started. Press Ctrl+C to shut down.
+INFO  07:55:36 Hosting environment: Development
+INFO  07:55:36 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:55:53 Agent is Found
+INFO  07:55:53 Token is Generated
+INFO  10:52:36 Application started. Press Ctrl+C to shut down.
+INFO  10:52:36 Hosting environment: Development
+INFO  10:52:36 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  11:06:44 Agent is Found
+INFO  11:06:44 Token is Generated
+INFO  12:58:35 Application started. Press Ctrl+C to shut down.
+INFO  12:58:35 Hosting environment: Development
+INFO  12:58:35 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  12:58:53 Agent is Found
+INFO  12:58:53 Token is Generated
+INFO  01:03:34 Application started. Press Ctrl+C to shut down.
+INFO  01:03:34 Hosting environment: Development
+INFO  01:03:34 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:04:09 Agent is Found
+INFO  01:04:09 Token is Generated
+INFO  01:12:18 Application started. Press Ctrl+C to shut down.
+INFO  01:12:18 Hosting environment: Development
+INFO  01:12:18 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:12:35 Agent is Found
+INFO  01:12:35 Token is Generated
+INFO  01:24:29 Application started. Press Ctrl+C to shut down.
+INFO  01:24:29 Hosting environment: Development
+INFO  01:24:29 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:24:46 Agent is Found
+INFO  01:24:46 Token is Generated
+INFO  01:30:50 Application started. Press Ctrl+C to shut down.
+INFO  01:30:50 Hosting environment: Development
+INFO  01:30:50 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:31:25 Agent is Found
+INFO  01:31:25 Token is Generated
+INFO  01:44:03 Application started. Press Ctrl+C to shut down.
+INFO  01:44:03 Hosting environment: Development
+INFO  01:44:03 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:44:20 Agent is Found
+INFO  01:44:20 Token is Generated
+INFO  01:50:00 Application started. Press Ctrl+C to shut down.
+INFO  01:50:00 Hosting environment: Development
+INFO  01:50:00 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  01:50:19 Agent is Found
+INFO  01:50:19 Token is Generated
+INFO  02:02:16 Application started. Press Ctrl+C to shut down.
+INFO  02:02:16 Hosting environment: Development
+INFO  02:02:16 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:02:36 Agent is Found
+INFO  02:02:36 Token is Generated
+INFO  02:13:40 Application started. Press Ctrl+C to shut down.
+INFO  02:13:40 Hosting environment: Development
+INFO  02:13:40 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:15:05 Application started. Press Ctrl+C to shut down.
+INFO  02:15:05 Hosting environment: Development
+INFO  02:15:05 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:15:26 Agent is Found
+INFO  02:15:26 Token is Generated
+FATAL 02:25:13 Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.DataProtection.IDataProtectionProvider' while attempting to activate 'Microsoft.AspNetCore.Session.SessionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+INFO  02:26:06 Application started. Press Ctrl+C to shut down.
+INFO  02:26:06 Hosting environment: Development
+INFO  02:26:06 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:26:29 Agent is Found
+INFO  02:26:29 Token is Generated
+INFO  02:31:46 Agent is Found
+INFO  02:31:46 Token is Generated
+INFO  02:35:57 Application started. Press Ctrl+C to shut down.
+INFO  02:35:57 Hosting environment: Development
+INFO  02:35:57 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  02:36:19 Agent is Found
+INFO  02:36:19 Token is Generated
+INFO  02:44:57 Application started. Press Ctrl+C to shut down.
+INFO  02:44:57 Hosting environment: Development
+INFO  02:44:57 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:02:30 Application started. Press Ctrl+C to shut down.
+INFO  07:02:30 Hosting environment: Development
+INFO  07:02:30 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:02:48 Agent is Found
+INFO  07:02:48 Token is Generated
+INFO  07:17:21 Application started. Press Ctrl+C to shut down.
+INFO  07:17:21 Hosting environment: Development
+INFO  07:17:21 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:17:47 Agent is Found
+INFO  07:17:47 Token is Generated
+INFO  07:24:09 Application started. Press Ctrl+C to shut down.
+INFO  07:24:09 Hosting environment: Development
+INFO  07:24:09 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:24:36 Agent is Found
+INFO  07:24:36 Token is Generated
+INFO  07:24:52 Agent is Found
+INFO  07:24:52 Token is Generated
+INFO  06:42:24 Application started. Press Ctrl+C to shut down.
+INFO  06:42:25 Hosting environment: Development
+INFO  06:42:25 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:42:35 Getting All Agents
+INFO  06:48:34 Getting All Agents
+INFO  06:48:35 Getting All Agents
+INFO  06:48:37 Getting All Agents
+INFO  06:48:38 Getting All Agents
+INFO  06:48:38 Getting All Agents
+INFO  06:48:38 Getting All Agents
+INFO  06:50:47 Application started. Press Ctrl+C to shut down.
+INFO  06:50:47 Hosting environment: Development
+INFO  06:50:47 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  06:50:54 Getting All Agents
+INFO  06:51:18 Getting All Agents
+INFO  06:52:08 Agent is Found
+INFO  06:52:08 Token is Generated
+INFO  06:52:51 Agent is Found
+INFO  06:52:51 Token is Generated
+INFO  07:10:17 Agent is Found
+INFO  07:10:17 Token is Generated
+INFO  07:10:36 Agent is Found
+INFO  07:10:36 Token is Generated
+INFO  07:13:07 Getting All Agents
+INFO  07:40:52 No Agent is Found
+INFO  07:42:26 Application started. Press Ctrl+C to shut down.
+INFO  07:42:26 Hosting environment: Development
+INFO  07:42:26 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:43:22 No Agent is Found
+INFO  07:43:46 No Agent is Found
+INFO  07:43:58 Getting All Agents
+INFO  07:44:08 No Agent is Found
+INFO  07:45:39 No Agent is Found
+INFO  07:50:39 No Agent is Found
+INFO  07:51:22 No Agent is Found
+INFO  07:52:44 No Agent is Found
+INFO  07:54:31 No Agent is Found
+INFO  07:54:56 Agent is Found
+INFO  07:54:56 Token is Generated
+INFO  07:56:33 No Agent is Found
+INFO  08:16:24 No Agent is Found
+INFO  08:19:07 Agent is Found
+INFO  08:19:07 Token is Generated
+INFO  08:26:02 Agent is Found
+INFO  08:26:02 Token is Generated
+INFO  08:37:06 Application started. Press Ctrl+C to shut down.
+INFO  08:37:06 Hosting environment: Development
+INFO  08:37:06 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  08:37:39 Agent is Found
+INFO  08:37:39 Token is Generated
+INFO  09:14:45 Application started. Press Ctrl+C to shut down.
+INFO  09:14:45 Hosting environment: Development
+INFO  09:14:45 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  09:15:41 Agent is Found
+INFO  09:15:41 Token is Generated
+INFO  09:32:15 Application started. Press Ctrl+C to shut down.
+INFO  09:32:15 Hosting environment: Development
+INFO  09:32:15 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  09:32:53 Agent is Found
+INFO  09:32:53 Token is Generated
+INFO  10:23:59 Application started. Press Ctrl+C to shut down.
+INFO  10:23:59 Hosting environment: Development
+INFO  10:23:59 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  10:24:21 Agent is Found
+INFO  10:24:21 Token is Generated
+INFO  10:48:40 Application started. Press Ctrl+C to shut down.
+INFO  10:48:40 Hosting environment: Development
+INFO  10:48:40 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  10:48:49 Getting All Agents
+INFO  10:49:21 Agent is Found
+INFO  10:49:21 Token is Generated
+INFO  11:24:39 Application started. Press Ctrl+C to shut down.
+INFO  11:24:39 Hosting environment: Development
+INFO  11:24:39 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  11:25:00 Agent is Found
+INFO  11:25:00 Token is Generated
+INFO  12:30:24 Application started. Press Ctrl+C to shut down.
+INFO  12:30:24 Hosting environment: Development
+INFO  12:30:24 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  12:30:58 Agent is Found
+INFO  12:30:58 Token is Generated
+INFO  07:58:27 Application started. Press Ctrl+C to shut down.
+INFO  07:58:27 Hosting environment: Development
+INFO  07:58:27 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  07:59:15 No Agent is Found
+INFO  08:04:40 Application started. Press Ctrl+C to shut down.
+INFO  08:04:40 Hosting environment: Development
+INFO  08:04:40 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  08:07:17 Agent is Found
+INFO  08:07:17 Token is Generated
+INFO  08:07:45 Getting All Agents
+INFO  08:23:20 Agent is Found
+INFO  08:23:20 Token is Generated
+INFO  08:23:57 Agent is Found
+INFO  08:23:57 Token is Generated
+INFO  09:07:45 Application started. Press Ctrl+C to shut down.
+INFO  09:07:45 Hosting environment: Development
+INFO  09:07:45 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  09:09:55 Application started. Press Ctrl+C to shut down.
+INFO  09:09:55 Hosting environment: Development
+INFO  09:09:55 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  09:11:18 Agent is Found
+INFO  09:11:18 Token is Generated
+INFO  09:14:25 Agent is Found
+INFO  09:14:25 Token is Generated
+INFO  09:21:04 Agent is Found
+INFO  09:21:04 Token is Generated
+INFO  09:22:28 Agent is Found
+INFO  09:22:28 Token is Generated
+INFO  10:53:26 Application started. Press Ctrl+C to shut down.
+INFO  10:53:26 Hosting environment: Development
+INFO  10:53:26 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  10:53:37 Getting All Agents
+INFO  10:53:58 Agent is Found
+INFO  10:53:58 Token is Generated
+INFO  11:25:40 Application started. Press Ctrl+C to shut down.
+INFO  11:25:41 Hosting environment: Development
+INFO  11:25:41 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  11:27:08 Agent is Found
+INFO  11:27:08 Token is Generated
+INFO  11:27:55 No Agent is Found
+INFO  11:28:16 Agent is Found
+INFO  11:28:16 Token is Generated
+INFO  11:34:36 No Agent is Found
+INFO  11:34:38 No Agent is Found
+INFO  11:34:56 No Agent is Found
+INFO  11:49:41 Agent is Found
+INFO  11:49:41 Token is Generated
+INFO  11:51:26 Agent is Found
+INFO  11:51:26 Token is Generated
+INFO  11:52:51 Agent is Found
+INFO  11:52:51 Token is Generated
+INFO  12:04:29 Agent is Found
+INFO  12:04:29 Token is Generated
+INFO  12:04:59 No Agent is Found
+INFO  12:05:33 No Agent is Found
+INFO  12:21:04 Agent is Found
+INFO  12:21:04 Token is Generated
+INFO  12:21:22 No Agent is Found
+INFO  12:21:35 No Agent is Found
+INFO  12:26:02 Agent is Found
+INFO  12:26:02 Token is Generated
+INFO  12:26:28 No Agent is Found
+INFO  12:26:50 Agent is Found
+INFO  12:26:50 Token is Generated
+INFO  12:29:48 Agent is Found
+INFO  12:29:48 Token is Generated
+INFO  12:31:18 Agent is Found
+INFO  12:31:18 Token is Generated
+INFO  12:31:34 No Agent is Found
+INFO  12:32:00 Agent is Found
+INFO  12:32:00 Token is Generated
+INFO  12:37:31 No Agent is Found
+INFO  12:38:17 Agent is Found
+INFO  12:38:17 Token is Generated
+INFO  12:38:38 No Agent is Found
+INFO  12:40:24 No Agent is Found
+INFO  12:41:15 Agent is Found
+INFO  12:41:15 Token is Generated
+INFO  12:43:12 Agent is Found
+INFO  12:43:12 Token is Generated
+INFO  12:49:17 Agent is Found
+INFO  12:49:17 Token is Generated
+INFO  12:49:24 No Agent is Found
+INFO  01:07:21 Agent is Found
+INFO  01:07:21 Token is Generated
+INFO  01:07:29 No Agent is Found
+INFO  01:16:02 Agent is Found
+INFO  01:16:02 Token is Generated
+INFO  01:16:36 Agent is Found
+INFO  01:16:36 Token is Generated
+INFO  01:29:06 Agent is Found
+INFO  01:29:06 Token is Generated
+INFO  01:34:44 Agent is Found
+INFO  01:34:44 Token is Generated
+INFO  01:49:59 Agent is Found
+INFO  01:49:59 Token is Generated
+INFO  01:50:05 No Agent is Found
+INFO  01:52:39 Agent is Found
+INFO  01:52:39 Token is Generated
+INFO  01:55:03 Agent is Found
+INFO  01:55:03 Token is Generated
+INFO  01:57:58 Agent is Found
+INFO  01:57:58 Token is Generated
+INFO  02:05:11 Agent is Found
+INFO  02:05:11 Token is Generated
+INFO  02:05:36 Agent is Found
+INFO  02:05:36 Token is Generated
+INFO  02:07:15 Agent is Found
+INFO  02:07:15 Token is Generated
+INFO  03:01:24 No Agent is Found
+INFO  03:02:41 Agent is Found
+INFO  03:02:41 Token is Generated
+INFO  03:02:54 No Agent is Found
+INFO  03:06:35 Agent is Found
+INFO  03:06:35 Token is Generated
+INFO  03:07:08 No Agent is Found
+INFO  03:19:32 No Agent is Found
+INFO  03:19:44 Agent is Found
+INFO  03:19:44 Token is Generated
+INFO  03:30:38 No Agent is Found
+INFO  03:32:11 No Agent is Found
+INFO  03:32:50 No Agent is Found
+INFO  03:36:20 Agent is Found
+INFO  03:36:20 Token is Generated
+INFO  03:37:23 Agent is Found
+INFO  03:37:23 Token is Generated
+INFO  03:39:18 Agent is Found
+INFO  03:39:18 Token is Generated
+INFO  03:39:37 No Agent is Found
+INFO  03:40:45 Agent is Found
+INFO  03:40:45 Token is Generated
+INFO  03:40:51 Agent is Found
+INFO  03:40:51 Token is Generated
+INFO  03:41:03 Agent is Found
+INFO  03:41:03 Token is Generated
+INFO  04:06:28 Agent is Found
+INFO  04:06:28 Token is Generated
+INFO  04:55:08 Agent is Found
+INFO  04:55:08 Token is Generated
+INFO  05:00:11 Agent is Found
+INFO  05:00:11 Token is Generated
+INFO  05:00:30 Agent is Found
+INFO  05:00:30 Token is Generated
+INFO  05:03:21 No Agent is Found
+INFO  05:18:30 Agent is Found
+INFO  05:18:30 Token is Generated
+INFO  05:18:42 No Agent is Found
+INFO  05:18:52 No Agent is Found
+INFO  05:19:01 Agent is Found
+INFO  05:19:01 Token is Generated
+INFO  05:32:28 Agent is Found
+INFO  05:32:28 Token is Generated
+INFO  05:43:55 No Agent is Found
+INFO  05:46:40 Agent is Found
+INFO  05:46:40 Token is Generated
+INFO  05:59:54 No Agent is Found
+INFO  06:00:16 Agent is Found
+INFO  06:00:16 Token is Generated
+INFO  06:00:51 Agent is Found
+INFO  06:00:51 Token is Generated
+INFO  07:28:55 Agent is Found
+INFO  07:28:55 Token is Generated
+INFO  08:08:13 Agent is Found
+INFO  08:08:13 Token is Generated
+INFO  08:44:43 Agent is Found
+INFO  08:44:43 Token is Generated
+INFO  09:26:35 Application started. Press Ctrl+C to shut down.
+INFO  09:26:35 Hosting environment: Development
+INFO  09:26:35 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  09:27:04 Agent is Found
+INFO  09:27:04 Token is Generated
+INFO  10:01:55 Agent is Found
+INFO  10:01:55 Token is Generated
+INFO  08:14:16 Application started. Press Ctrl+C to shut down.
+INFO  08:14:16 Hosting environment: Development
+INFO  08:14:16 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  08:19:14 Agent is Found
+INFO  08:19:14 Token is Generated
+INFO  08:55:43 Agent is Found
+INFO  08:55:43 Token is Generated
+INFO  09:05:00 Agent is Found
+INFO  09:05:00 Token is Generated
+INFO  09:39:47 Agent is Found
+INFO  09:39:47 Token is Generated
+INFO  10:08:50 Agent is Found
+INFO  10:08:50 Token is Generated
+INFO  10:13:39 Agent is Found
+INFO  10:13:39 Token is Generated
+INFO  10:23:52 No Agent is Found
+INFO  10:24:41 Agent is Found
+INFO  10:24:41 Token is Generated
+INFO  10:28:16 Agent is Found
+INFO  10:28:16 Token is Generated
+INFO  10:54:05 Agent is Found
+INFO  10:54:05 Token is Generated
+INFO  10:58:22 Agent is Found
+INFO  10:58:22 Token is Generated
+INFO  10:59:10 Agent is Found
+INFO  10:59:10 Token is Generated
+INFO  11:00:14 Agent is Found
+INFO  11:00:14 Token is Generated
+INFO  11:00:51 Agent is Found
+INFO  11:00:51 Token is Generated
+INFO  11:02:17 Agent is Found
+INFO  11:02:17 Token is Generated
+INFO  11:02:38 Agent is Found
+INFO  11:02:38 Token is Generated
+INFO  11:07:58 Agent is Found
+INFO  11:07:58 Token is Generated
+INFO  11:18:53 Agent is Found
+INFO  11:18:53 Token is Generated
+INFO  11:58:06 Application started. Press Ctrl+C to shut down.
+INFO  11:58:06 Hosting environment: Development
+INFO  11:58:06 Content root path: C:\Users\2064827\source\repos\MFPE\AuthorizationAPI
+INFO  12:01:05 Agent is Found
+INFO  12:01:05 Token is Generated
+INFO  12:40:42 Agent is Found
+INFO  12:40:42 Token is Generated
+INFO  12:41:16 Agent is Found
+INFO  12:41:16 Token is Generated
+INFO  12:41:58 No Agent is Found
+INFO  12:42:37 Agent is Found
+INFO  12:42:37 Token is Generated
+INFO  01:11:07 Agent is Found
+INFO  01:11:07 Token is Generated
+INFO  03:11:19 Application started. Press Ctrl+C to shut down.
+INFO  03:11:19 Hosting environment: Development
+INFO  03:11:19 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  03:12:10 Agent is Found
+INFO  03:12:10 Token is Generated
+INFO  03:12:24 Getting All Agents
+INFO  03:27:22 Application started. Press Ctrl+C to shut down.
+INFO  03:27:22 Hosting environment: Development
+INFO  03:27:22 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  03:27:40 Agent is Found
+INFO  03:27:40 Token is Generated
+INFO  09:00:40 Application started. Press Ctrl+C to shut down.
+INFO  09:00:41 Hosting environment: Development
+INFO  09:00:41 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  09:01:11 Agent is Found
+INFO  09:01:11 Token is Generated
+INFO  09:02:32 Agent is Found
+INFO  09:02:32 Token is Generated
+INFO  09:03:41 Agent is Found
+INFO  09:03:41 Token is Generated
+INFO  09:06:16 Application started. Press Ctrl+C to shut down.
+INFO  09:06:16 Hosting environment: Development
+INFO  09:06:16 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  09:06:39 Agent is Found
+INFO  09:06:39 Token is Generated
+INFO  09:42:51 Application started. Press Ctrl+C to shut down.
+INFO  09:42:51 Hosting environment: Development
+INFO  09:42:51 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  09:44:44 Agent is Found
+INFO  09:44:44 Agent is Found
+INFO  09:44:44 Agent is Found
+INFO  09:44:44 Token is Generated
+INFO  09:44:44 Agent is Found
+INFO  09:44:44 Token is Generated
+INFO  09:44:44 Token is Generated
+INFO  09:44:44 Agent is Found
+INFO  09:44:44 Token is Generated
+INFO  09:44:44 Token is Generated
+INFO  09:45:06 Agent is Found
+INFO  09:45:06 Token is Generated
+INFO  09:48:38 Agent is Found
+INFO  09:48:38 Token is Generated
+INFO  09:49:00 Agent is Found
+INFO  09:49:00 Token is Generated
+INFO  09:49:34 Agent is Found
+INFO  09:49:34 Token is Generated
+INFO  09:50:25 Agent is Found
+INFO  09:50:25 Token is Generated
+INFO  09:56:13 Agent is Found
+INFO  09:56:13 Token is Generated
+INFO  09:57:59 Agent is Found
+INFO  09:57:59 Token is Generated
+INFO  09:58:01 Agent is Found
+INFO  09:58:01 Token is Generated
+INFO  09:58:20 Agent is Found
+INFO  09:58:20 Token is Generated
+INFO  09:58:21 Agent is Found
+INFO  09:58:21 Token is Generated
+INFO  09:58:33 Agent is Found
+INFO  09:58:33 Token is Generated
+INFO  09:58:34 Agent is Found
+INFO  09:58:34 Token is Generated
+INFO  09:58:37 Agent is Found
+INFO  09:58:37 Token is Generated
+INFO  11:06:28 Application started. Press Ctrl+C to shut down.
+INFO  11:06:28 Hosting environment: Development
+INFO  11:06:28 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  11:27:15 Agent is Found
+INFO  11:27:15 Token is Generated
+INFO  11:27:15 Agent is Found
+INFO  11:27:15 Token is Generated
+INFO  11:27:59 No Agent is Found
+INFO  11:46:50 Application started. Press Ctrl+C to shut down.
+INFO  11:46:50 Hosting environment: Development
+INFO  11:46:50 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  11:46:59 Getting All Agents
+INFO  06:38:39 Agent is Found
+INFO  06:38:39 Token is Generated
+INFO  06:47:31 Agent is Found
+INFO  06:47:31 Token is Generated
+INFO  06:49:22 Agent is Found
+INFO  06:49:22 Token is Generated
+INFO  06:50:18 No Agent is Found
+INFO  06:51:11 No Agent is Found
+INFO  06:51:33 No Agent is Found
+INFO  07:21:48 No Agent is Found
+INFO  07:22:58 No Agent is Found
+INFO  07:36:50 No Agent is Found
+INFO  07:41:05 Agent is Found
+INFO  07:41:05 Token is Generated
+INFO  07:41:13 No Agent is Found
+INFO  07:41:14 No Agent is Found
+INFO  07:41:14 No Agent is Found
+INFO  07:41:14 No Agent is Found
+INFO  07:41:14 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:15 No Agent is Found
+INFO  07:41:16 No Agent is Found
+INFO  07:41:16 No Agent is Found
+INFO  07:41:16 No Agent is Found
+INFO  07:41:16 No Agent is Found
+INFO  07:41:16 No Agent is Found
+INFO  07:41:53 Agent is Found
+INFO  07:41:53 Token is Generated
+INFO  07:43:53 Agent is Found
+INFO  07:43:53 Token is Generated
+INFO  07:48:23 Agent is Found
+INFO  07:48:23 Token is Generated
+INFO  08:24:03 Agent is Found
+INFO  08:24:03 Token is Generated
+INFO  08:48:55 Agent is Found
+INFO  08:48:55 Token is Generated
+INFO  08:49:05 No Agent is Found
+INFO  08:49:06 No Agent is Found
+INFO  08:49:06 No Agent is Found
+INFO  08:49:06 No Agent is Found
+INFO  08:50:52 Agent is Found
+INFO  08:50:52 Token is Generated
+INFO  11:50:51 Agent is Found
+INFO  11:50:51 Token is Generated
+INFO  03:55:56 Application started. Press Ctrl+C to shut down.
+INFO  03:55:56 Hosting environment: Development
+INFO  03:55:56 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  03:58:21 Agent is Found
+INFO  03:58:21 Token is Generated
+INFO  04:05:15 Agent is Found
+INFO  04:05:15 Token is Generated
+INFO  04:05:57 Agent is Found
+INFO  04:05:57 Token is Generated
+INFO  04:08:52 Agent is Found
+INFO  04:08:52 Token is Generated
+INFO  04:11:21 Agent is Found
+INFO  04:11:21 Token is Generated
+INFO  04:32:05 Application started. Press Ctrl+C to shut down.
+INFO  04:32:05 Hosting environment: Development
+INFO  04:32:05 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  04:36:03 Agent is Found
+INFO  04:36:03 Token is Generated
+INFO  05:01:44 Agent is Found
+INFO  05:01:44 Token is Generated
+INFO  06:38:20 Application started. Press Ctrl+C to shut down.
+INFO  06:38:20 Hosting environment: Development
+INFO  06:38:20 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  06:38:37 Getting All Agents
+INFO  06:44:03 Agent is Found
+INFO  06:44:03 Token is Generated
+INFO  06:50:16 Agent is Found
+INFO  06:50:16 Token is Generated
+INFO  06:50:24 Agent is Found
+INFO  06:50:24 Token is Generated
+INFO  06:56:41 Application started. Press Ctrl+C to shut down.
+INFO  06:56:41 Hosting environment: Development
+INFO  06:56:41 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  06:56:59 Getting All Agents
+INFO  06:57:46 Agent is Found
+INFO  06:57:46 Token is Generated
+INFO  07:03:13 Application started. Press Ctrl+C to shut down.
+INFO  07:03:13 Hosting environment: Development
+INFO  07:03:13 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI-master\AuthorizationAPI-master
+INFO  07:03:52 Agent is Found
+INFO  07:03:52 Token is Generated
+INFO  07:26:09 Application started. Press Ctrl+C to shut down.
+INFO  07:26:09 Hosting environment: Development
+INFO  07:26:09 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  07:26:41 Getting All Agents
+INFO  07:27:35 Agent is Found
+INFO  07:27:35 Token is Generated
+INFO  07:31:09 Application started. Press Ctrl+C to shut down.
+INFO  07:31:09 Hosting environment: Development
+INFO  07:31:09 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  07:32:04 Agent is Found
+INFO  07:32:04 Token is Generated
+INFO  07:38:24 Agent is Found
+INFO  07:38:24 Token is Generated
+INFO  07:40:51 Agent is Found
+INFO  07:40:51 Token is Generated
+INFO  07:49:07 Agent is Found
+INFO  07:49:07 Token is Generated
+INFO  07:52:05 Agent is Found
+INFO  07:52:05 Token is Generated
+INFO  07:54:19 Agent is Found
+INFO  07:54:19 Token is Generated
+INFO  07:56:59 Agent is Found
+INFO  07:56:59 Token is Generated
+INFO  07:58:20 No Agent is Found
+INFO  07:58:37 Agent is Found
+INFO  07:58:37 Token is Generated
+INFO  08:21:00 Agent is Found
+INFO  08:21:00 Token is Generated
+INFO  08:29:30 Agent is Found
+INFO  08:29:30 Token is Generated
+INFO  10:22:06 Agent is Found
+INFO  10:22:06 Token is Generated
+INFO  10:26:58 No Agent is Found
+INFO  10:33:58 No Agent is Found
+INFO  10:34:31 Agent is Found
+INFO  10:34:31 Token is Generated
+INFO  11:31:20 No Agent is Found
+INFO  11:22:20 Application started. Press Ctrl+C to shut down.
+INFO  11:22:20 Hosting environment: Development
+INFO  11:22:20 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  11:25:03 No Agent is Found
+INFO  11:25:40 No Agent is Found
+INFO  11:27:36 No Agent is Found
+INFO  11:41:55 No Agent is Found
+INFO  11:55:40 Application started. Press Ctrl+C to shut down.
+INFO  11:55:40 Hosting environment: Development
+INFO  11:55:40 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  11:57:29 No Agent is Found
+INFO  11:57:57 No Agent is Found
+INFO  12:00:20 No Agent is Found
+INFO  12:03:02 No Agent is Found
+INFO  12:07:00 Getting All Agents
+INFO  12:07:49 Agent is Found
+INFO  12:07:49 Token is Generated
+INFO  12:08:05 No Agent is Found
+INFO  12:10:10 Application started. Press Ctrl+C to shut down.
+INFO  12:10:10 Hosting environment: Development
+INFO  12:10:10 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  12:10:20 Getting All Agents
+INFO  12:10:32 No Agent is Found
+INFO  12:10:45 No Agent is Found
+INFO  12:18:53 No Agent is Found
+INFO  12:20:00 No Agent is Found
+INFO  12:20:46 No Agent is Found
+INFO  12:22:01 No Agent is Found
+INFO  12:22:22 No Agent is Found
+INFO  12:22:52 No Agent is Found
+INFO  02:32:34 Application started. Press Ctrl+C to shut down.
+INFO  02:32:34 Hosting environment: Development
+INFO  02:32:34 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  02:38:01 Agent is Found
+INFO  02:38:01 Token is Generated
+INFO  02:57:10 No User is Found
+INFO  02:57:21 Agent is Found
+INFO  02:57:21 Token is Generated
+INFO  03:01:38 Agent is Found
+INFO  03:01:38 Token is Generated
+INFO  03:03:06 Agent is Found
+INFO  03:03:06 Token is Generated
+INFO  03:30:59 Agent is Found
+INFO  03:30:59 Token is Generated
+INFO  03:40:11 No User is Found
+INFO  03:40:12 No User is Found
+INFO  03:42:31 Application started. Press Ctrl+C to shut down.
+INFO  03:42:32 Hosting environment: Development
+INFO  03:42:32 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  03:42:59 No User is Found
+INFO  03:43:15 Agent is Found
+INFO  03:43:15 Token is Generated
+INFO  03:55:53 Agent is Found
+INFO  03:55:53 Token is Generated
+INFO  04:09:48 Agent is Found
+INFO  04:09:48 Token is Generated
+INFO  05:19:23 Agent is Found
+INFO  05:19:23 Token is Generated
+INFO  05:24:53 Agent is Found
+INFO  05:24:53 Token is Generated
+INFO  06:01:27 Agent is Found
+INFO  06:01:27 Token is Generated
+INFO  07:16:47 Agent is Found
+INFO  07:16:47 Token is Generated
+INFO  10:42:05 Agent is Found
+INFO  10:42:05 Token is Generated
+INFO  10:44:59 Agent is Found
+INFO  10:44:59 Token is Generated
+INFO  10:46:15 Agent is Found
+INFO  10:46:15 Token is Generated
+INFO  10:47:00 Agent is Found
+INFO  10:47:00 Token is Generated
+INFO  10:47:09 Agent is Found
+INFO  10:47:09 Token is Generated
+INFO  10:47:40 Agent is Found
+INFO  10:47:40 Token is Generated
+INFO  10:49:22 Agent is Found
+INFO  10:49:22 Token is Generated
+INFO  10:50:41 Agent is Found
+INFO  10:50:41 Token is Generated
+INFO  10:54:00 Agent is Found
+INFO  10:54:00 Token is Generated
+INFO  10:55:30 Agent is Found
+INFO  10:55:30 Token is Generated
+INFO  10:56:17 Agent is Found
+INFO  10:56:17 Token is Generated
+INFO  10:57:22 Agent is Found
+INFO  10:57:22 Token is Generated
+INFO  10:59:51 Agent is Found
+INFO  10:59:51 Token is Generated
+INFO  11:07:54 Agent is Found
+INFO  11:07:54 Token is Generated
+INFO  11:08:42 Agent is Found
+INFO  11:08:42 Token is Generated
+INFO  11:11:21 Agent is Found
+INFO  11:11:21 Token is Generated
+INFO  11:13:40 Agent is Found
+INFO  11:13:40 Token is Generated
+INFO  11:13:53 Agent is Found
+INFO  11:13:53 Token is Generated
+INFO  11:15:41 Agent is Found
+INFO  11:15:41 Token is Generated
+INFO  11:16:20 Agent is Found
+INFO  11:16:20 Token is Generated
+INFO  11:19:26 Agent is Found
+INFO  11:19:26 Token is Generated
+INFO  11:20:25 Agent is Found
+INFO  11:20:25 Token is Generated
+INFO  11:30:39 Agent is Found
+INFO  11:30:39 Token is Generated
+INFO  11:36:12 No User is Found
+INFO  11:36:24 Agent is Found
+INFO  11:36:24 Token is Generated
+INFO  11:58:55 Agent is Found
+INFO  11:58:55 Token is Generated
+INFO  12:03:34 Agent is Found
+INFO  12:03:34 Token is Generated
+INFO  12:05:00 Agent is Found
+INFO  12:05:00 Token is Generated
+INFO  12:07:22 Agent is Found
+INFO  12:07:22 Token is Generated
+INFO  12:07:44 Agent is Found
+INFO  12:07:44 Token is Generated
+INFO  12:07:59 Agent is Found
+INFO  12:07:59 Token is Generated
+INFO  12:09:25 Agent is Found
+INFO  12:09:25 Token is Generated
+INFO  12:09:42 Agent is Found
+INFO  12:09:42 Token is Generated
+INFO  12:11:15 Agent is Found
+INFO  12:11:15 Token is Generated
+INFO  12:30:17 Agent is Found
+INFO  12:30:17 Token is Generated
+INFO  12:31:28 Agent is Found
+INFO  12:31:28 Token is Generated
+INFO  12:32:22 Agent is Found
+INFO  12:32:22 Token is Generated
+INFO  12:36:08 Agent is Found
+INFO  12:36:08 Token is Generated
+INFO  12:36:51 Agent is Found
+INFO  12:36:51 Token is Generated
+INFO  12:37:01 Agent is Found
+INFO  12:37:01 Token is Generated
+INFO  12:37:54 Agent is Found
+INFO  12:37:54 Token is Generated
+INFO  10:54:56 Application started. Press Ctrl+C to shut down.
+INFO  10:54:56 Hosting environment: Development
+INFO  10:54:56 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  10:58:07 Agent is Found
+INFO  10:58:07 Token is Generated
+INFO  10:59:07 Agent is Found
+INFO  10:59:07 Token is Generated
+INFO  11:13:46 Agent is Found
+INFO  11:13:46 Token is Generated
+INFO  11:15:32 Getting All Users
+INFO  11:17:31 Agent is Found
+INFO  11:17:31 Token is Generated
+INFO  11:19:36 Agent is Found
+INFO  11:19:36 Token is Generated
+INFO  11:31:41 Agent is Found
+INFO  11:31:41 Token is Generated
+INFO  11:32:39 Agent is Found
+INFO  11:32:39 Token is Generated
+INFO  11:32:39 Getting All Users
+INFO  11:35:35 Agent is Found
+INFO  11:35:35 Token is Generated
+INFO  11:35:35 Getting All Users
+INFO  11:49:59 Agent is Found
+INFO  11:49:59 Token is Generated
+INFO  11:49:59 Getting All Users
+INFO  11:56:49 Getting All Users
+INFO  12:04:51 Agent is Found
+INFO  12:04:51 Token is Generated
+INFO  12:04:51 Getting All Users
+INFO  12:15:40 Agent is Found
+INFO  12:15:40 Token is Generated
+INFO  12:15:40 Getting All Users
+INFO  12:28:10 Agent is Found
+INFO  12:28:10 Token is Generated
+INFO  12:28:10 Getting All Users
+INFO  12:31:56 Agent is Found
+INFO  12:31:56 Token is Generated
+INFO  12:31:56 Getting All Users
+INFO  12:33:02 Agent is Found
+INFO  12:33:02 Token is Generated
+INFO  12:33:02 Getting All Users
+INFO  12:36:58 Agent is Found
+INFO  12:36:58 Token is Generated
+INFO  12:36:58 Getting All Users
+INFO  12:38:48 Agent is Found
+INFO  12:38:48 Token is Generated
+INFO  12:38:48 Getting All Users
+INFO  12:48:58 Agent is Found
+INFO  12:48:58 Token is Generated
+INFO  12:53:42 Getting All Users
+INFO  12:56:24 Agent is Found
+INFO  12:56:24 Token is Generated
+INFO  12:56:24 Getting All Users
+INFO  12:56:56 Agent is Found
+INFO  12:56:56 Token is Generated
+INFO  12:56:56 Getting All Users
+INFO  12:58:03 Agent is Found
+INFO  12:58:03 Token is Generated
+INFO  12:58:03 Getting All Users
+INFO  12:59:37 Agent is Found
+INFO  12:59:37 Token is Generated
+INFO  12:59:37 Getting All Users
+INFO  01:00:24 Agent is Found
+INFO  01:00:24 Token is Generated
+INFO  01:00:24 Getting All Users
+INFO  01:19:21 Agent is Found
+INFO  01:19:21 Token is Generated
+INFO  01:19:21 Getting All Users
+INFO  01:20:16 Agent is Found
+INFO  01:20:16 Token is Generated
+INFO  01:20:16 Getting All Users
+INFO  01:21:03 Getting All Users
+INFO  01:21:49 Getting All Users
+INFO  01:22:03 Getting All Users
+INFO  01:22:21 Getting All Users
+INFO  01:22:35 Getting All Users
+INFO  01:22:43 Getting All Users
+INFO  01:22:47 Getting All Users
+INFO  01:23:06 Getting All Users
+INFO  01:23:49 Getting All Users
+INFO  01:24:15 Getting All Users
+INFO  01:24:55 Getting All Users
+INFO  01:29:49 Getting All Users
+INFO  01:30:03 Getting All Users
+INFO  01:30:27 Getting All Users
+INFO  01:31:14 Getting All Users
+INFO  01:31:56 Getting All Users
+INFO  01:32:28 Getting All Users
+INFO  01:44:32 Agent is Found
+INFO  01:44:32 Token is Generated
+INFO  01:44:32 Getting All Users
+INFO  01:44:49 Getting All Users
+INFO  02:19:45 Getting All Users
+INFO  02:25:10 Getting All Users
+INFO  02:25:47 Getting All Users
+INFO  02:54:52 Getting All Users
+INFO  02:57:31 Getting All Users
+INFO  03:38:37 Agent is Found
+INFO  03:38:37 Token is Generated
+INFO  03:38:37 Getting All Users
+INFO  03:41:41 Getting All Users
+INFO  03:44:32 Getting All Users
+INFO  03:45:13 Getting All Users
+INFO  03:46:53 Getting All Users
+INFO  03:47:11 Getting All Users
+INFO  03:49:33 Getting All Users
+INFO  03:56:46 Getting All Users
+INFO  03:57:31 Getting All Users
+INFO  03:57:53 Agent is Found
+INFO  03:57:53 Token is Generated
+INFO  03:57:53 Getting All Users
+INFO  03:58:21 Getting All Users
+INFO  03:59:25 Getting All Users
+INFO  04:00:28 Getting All Users
+INFO  04:03:02 Getting All Users
+INFO  04:20:39 Agent is Found
+INFO  04:20:39 Token is Generated
+INFO  04:20:39 Getting All Users
+INFO  04:21:32 Getting All Users
+INFO  04:21:47 Getting All Users
+INFO  04:22:41 Getting All Users
+INFO  04:23:33 Getting All Users
+INFO  04:31:00 Getting All Users
+INFO  04:38:10 Getting All Users
+INFO  06:45:08 Getting All Users
+INFO  01:33:28 Application started. Press Ctrl+C to shut down.
+INFO  01:33:28 Hosting environment: Development
+INFO  01:33:28 Content root path: C:\Users\2063635\Downloads\AuthorizationAPI\AuthorizationAPI
+INFO  01:34:47 Agent is Found
+INFO  01:34:47 Token is Generated
+INFO  01:34:47 Getting All Users
+INFO  01:41:41 Getting All Users
+INFO  01:42:09 Getting All Users
+INFO  01:46:27 Getting All Users
+INFO  01:47:51 Getting All Users
+INFO  01:48:31 Getting All Users
+INFO  01:48:45 Getting All Users
+INFO  01:50:23 Getting All Users
+INFO  01:50:51 Getting All Users
+INFO  01:53:06 Getting All Users
+INFO  02:01:01 Getting All Users
+INFO  02:05:35 Getting All Users
+INFO  02:06:06 Getting All Users
+INFO  02:06:24 Getting All Users
+INFO  02:16:56 Getting All Users
+INFO  02:17:47 Getting All Users
+INFO  02:19:08 Getting All Users
+INFO  02:19:13 Getting All Users
+INFO  02:23:44 Getting All Users
+INFO  02:26:45 Getting All Users
+INFO  02:28:43 Getting All Users
+INFO  02:31:53 Getting All Users
+INFO  02:33:29 Getting All Users
+INFO  02:33:50 Getting All Users
+INFO  02:34:44 Getting All Users
+INFO  02:38:00 Getting All Users
+INFO  02:38:48 Agent is Found
+INFO  02:38:48 Token is Generated
+INFO  02:38:48 Getting All Users
+INFO  02:41:29 Agent is Found
+INFO  02:41:29 Token is Generated
+INFO  02:41:29 Getting All Users
+INFO  02:42:12 Getting All Users
+INFO  02:48:11 Getting All Users
+INFO  02:48:23 Agent is Found
+INFO  02:48:23 Token is Generated
+INFO  02:48:23 Getting All Users
